@@ -1,2 +1,1 @@
-com\amazonaws\lambda\demo\LambdaFunctionHandler.class
-com\amazonaws\lambda\demo\StartWorkFlow.class
+com\amazonaws\swf\demo\StartWorkFlow.class

@@ -1,2 +1,1 @@
-com\amazonaws\lambda\demo\CompleteManualActivity.class
-com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+com\amazonaws\swf\demo\CompleteManualActivity.class
